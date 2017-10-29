@@ -1,0 +1,22 @@
+{
+    "name": "custom-theme",
+    "displayName": "custom-theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "SandroRybarik",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sandro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sandro-color-theme.json"
+            }
+        ]
+    }
+}
