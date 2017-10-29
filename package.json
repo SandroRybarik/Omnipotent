@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sandro",
+                "label": "Omnipotent",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sandro-color-theme.json"
             }
