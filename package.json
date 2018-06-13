@@ -18,5 +18,6 @@
                 "path": "./themes/Sandro-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "imgs/Design.png"
 }
