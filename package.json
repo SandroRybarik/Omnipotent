@@ -19,5 +19,9 @@
             }
         ]
     },
-    "icon": "imgs/Design.png"
+    "icon": "imgs/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SandroRybarik/Omnipotent.git"
+    }
 }
