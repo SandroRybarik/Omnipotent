@@ -18,5 +18,10 @@
                 "path": "./themes/Sandro-color-theme.json"
             }
         ]
+    },
+    "icon": "imgs/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SandroRybarik/Omnipotent.git"
     }
 }
